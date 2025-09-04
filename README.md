@@ -1,2 +1,2 @@
-# Sistema-Gesti-n-Gimnasio---TicoFit
+# Sistema-Gestión-Gimnasio---TicoFit
 Sistema Gestión Gimnasio
